@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     dataMigPerUnit, dataMigTtl, trainingCostPerUnit, trainingCostTtl, ttlVariableCost,
     ttlCostOfPurchase;
 
-    int noOfUnit = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
