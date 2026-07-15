@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        edtPlatformCost.setText(String.format("%,d", 50000000));
+        edtPlatformCost.setText(String.format("%,d", 30000000));
         edtLicenseFeePerUnit.setText(String.format("%,d", 50000));
         dataMigPerUnit.setText(String.format("%,d", 30000));
         trainingCostPerUnit.setText(String.format("%,d", 5000));
